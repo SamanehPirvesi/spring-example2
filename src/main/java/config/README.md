@@ -1,0 +1,1 @@
+simple example about spring properties first read from values set in enviroment
